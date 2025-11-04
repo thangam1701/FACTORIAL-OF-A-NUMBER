@@ -50,7 +50,10 @@ ORG 0000H
 
 **Manual Calculations:**  
 
-<img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/b2e040cb-91bb-40ce-bc11-f6200952ab32" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/89d728a8-50f0-4847-be5d-adf690660a2e" />
+
+
+
 
 
 **Result:**
